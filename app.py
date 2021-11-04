@@ -17,7 +17,7 @@ import plotly.express as px
 
 st.title("Welcome to MABA Class")
 st.markdown("This is a demo Streamlit app.")
-st.markdown("My name is Santoshi Diddi, hello world!..")
+st.markdown("My name is Santoshi, hello world!..")
 st.markdown("This is v2")
 
 @st.cache(persist=True)
