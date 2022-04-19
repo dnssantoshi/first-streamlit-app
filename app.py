@@ -3,7 +3,6 @@
 """
 
 
-@author: hamzafarooq@ MABA CLASS
 """
 
 import streamlit as st
